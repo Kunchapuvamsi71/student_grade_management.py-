@@ -1,0 +1,13 @@
+Task 2: Core Concepts and Skills – Student Grade Management System
+
+In this task, I applied core Python programming concepts by developing a console-based Student Grade Management System. The project accepts a student's name and marks in three subjects: Python, SQL, and Computer Networks. It calculates the total marks and average, assigns a grade, and displays whether the student has passed or failed.
+
+The program uses variables and data types to store student details and marks. It uses input and output functions to interact with the user, a list to store subject marks, and a dictionary to organize the final student report. A for loop collects marks for each subject, while conditional statements determine the grade and pass/fail result. Functions are used to calculate the average, assign grades, and validate user input, making the code more organized and reusable.
+
+Exception handling is included through try/except so that non-numeric input does not crash the program. The program also checks that marks remain between 0 and 100 and asks the user to try again if the input is invalid. A student is considered to have passed only when they score at least 40 marks in every subject.
+
+This project helped me connect Python theory with practical coding. It improved my understanding of control flow, functions, collections, input validation, and debugging. The project uses only Python's built-in features and does not require external libraries.
+
+Technologies used: Python 3, a text editor or IDE, and GitHub for source-code hosting and documentation.
+
+Project outcome: A working student grade management application that processes input, performs calculations, and displays a formatted report. This task provides practice with core concepts needed for larger Python applications.
